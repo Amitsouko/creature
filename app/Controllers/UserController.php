@@ -77,6 +77,7 @@ class UserController{
 
 			break;
 		}//END SWITCH
+		
 
 		
 	}
