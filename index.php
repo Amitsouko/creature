@@ -1,5 +1,6 @@
 <?php
 date_default_timezone_set ('Europe/Paris');
+echo 'coucou'; exit();
 $f3=require('app/Helpers/Library/base.php');
 
 $f3->config('config/globals.ini');
