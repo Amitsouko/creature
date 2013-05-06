@@ -5,11 +5,9 @@
 <body>
 
 	<h1>Acceuil</h1>
-	<fieldset><div>ici : mashup à décoder &rarr; <a href="tutorial">Tutorial</a></div></fieldset>
-	<fieldset><div>ici : vidéo how it works</div></fieldset>
-
+	
 	<div>
-		
+		<h1>SESSION</h1>
 			<?php print_r($user) ?>
 		
 	</div>
